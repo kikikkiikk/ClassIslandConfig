@@ -3,14 +3,14 @@
     "OrganizationName": "Class9",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/kikikkiikk/ClassIslandConfig/master/{id}/classplans.json",
-        "Version": 1
+        "Version": 2
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/kikikkiikk/ClassIslandConfig/master/{id}/timelayouts.json",
-        "Version": 1
+        "Version": 2
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/kikikkiikk/ClassIslandConfig/master/{id}/subjects.json",
-        "Version": 1
+        "Version": 2
     }
 }
