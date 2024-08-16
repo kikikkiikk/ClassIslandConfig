@@ -15,6 +15,6 @@
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/kikikkiikk/ClassIslandConfig/master/{id}/policy.json",
-        "Version": 1
+        "Version": 2
     }
 }
